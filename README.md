@@ -3,7 +3,7 @@
 My name is Shane
 
 
-![text](./profile.png){ width=60%,height:30px }
+![text](./profile.jpg){ width=60%,height:30px }
 
 [twitter](https://twitter.com/shanehoey)
 twitter
