@@ -1,13 +1,20 @@
 ### Hi there 👋
 
-My name is Shane
+I'm [Shane](shanehoey.com) and live in Australia work for [AudioCodes](audiocodes.com)
 
 
-![text](./profile.jpg){ width=60%,height:30px }
 
-[twitter](https://twitter.com/shanehoey)
-twitter
 
-https://shanehoey.com/
-https://github.com/shanehoey
-https://linkedin.com/shanehoey
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: <img src="https://img.icons8.com/ios-glyphs/90/000000/twitter--v1.png"/>
+[2.2]: <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png"/>
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/shanehoey
+[2]: https://www.linkedin.com.au/in/shanehoey/
