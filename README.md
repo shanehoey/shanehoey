@@ -1,20 +1,16 @@
-### Hi there 👋
+[![Social banner for shanehoey](  )](https://shanehoey.com)
+
+# Hi there 👋
 
 I'm [Shane](shanehoey.com) and live in Australia work for [AudioCodes](audiocodes.com)
 
+## Technnology
 
 
+@
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: <img src="https://img.icons8.com/ios-glyphs/90/000000/twitter--v1.png"/>
-[2.2]: <img src="https://img.icons8.com/ios-filled/100/000000/linkedin.png"/>
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/shanehoey
-[2]: https://www.linkedin.com.au/in/shanehoey/
+<!-- Social -->
+### Reach out to me via
+[![twitter](https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png)](https://twitter.com/shanehoey/)   [![linkedin](https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png)](https://www.linkedin.com.au/in/shanehoey/)   [![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png)](https://shanehoey.com/)
+<hr>
