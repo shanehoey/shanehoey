@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img src="./assets/Profile.jpg" alt="profile" style="width:158px;" />
-<img src="./assets/MVP.png" alt="mvp" style="width:100px;" />
+<img src="./Profile.jpg" alt="profile" style="width:158px;" />
+<img src="./MVP.png" alt="mvp" style="width:100px;" />
 
 
 * Over 10 year's Automation experience with Windows PowerShell.
