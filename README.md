@@ -21,8 +21,10 @@
 
 <!-- Social -->
 <hr/>
-<p align=center>
-<h3 align="center">Reach out to me via</h3>
+<p align="center">
+  
+### Reach out to me via
+  
 <a href="https://shanehoey.com/"><img src = "https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png" alt = "website"></a>
 &#8195;
 <a href="https://twitter.com/shanehoey"><img src = "https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png" alt = "website"></a>
