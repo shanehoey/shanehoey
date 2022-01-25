@@ -1,12 +1,18 @@
-<img src="./assets/audiocodes2.png" alt="mvp" style="width:30%" /><img src="./assets/Profile.jpg" alt="profile" style="width:158px;" /><img src="./assets/MVP.png" alt="mvp" style="float: right; width:100px;" />
+<img src="./assets/Profile.jpg" alt="profile" align="right" width=158px height=100%  /><img src="./assets/MVP.png" alt="mvp" align="right" width=100px height=100% />
 
 # Shane Hoey
 
 Modern Workplace Specialist
 **AudioCodes**
 
+
+
+
 ## Career Highlights
 
+Microsoft Teams SME <img src="./assets/audiocodes1.png" alt="mvp" align = "right" width=240px />
+Automation Specialist 
+AudioCodes 
 * Over 10 years experience deploying and managing Microsoft Unified Communications solutions, including OCS/Lync/Skype for Business/Microsoft Teams.
 * Over 10 year's Automation experience with Windows PowerShell.
 * Multiple award recipient of Microsoft MVP award (9 Years) ([mvp.microsoft.com](https://mvp.microsoft.com/en-us/mvp/Shane%20%20Hoey-4030602))
