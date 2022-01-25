@@ -1,4 +1,4 @@
-<img src="./assets/audiocodes2.png" alt="mvp" style="width:30%" /><img src="./assets/Profile.jpg" alt="profile" style="width:158px;" /><img src="./assets/MVP.png" alt="mvp" style="width:100px;" />
+<img src="./assets/audiocodes2.png" alt="mvp" style="width:30%" /><div style="text-align: right"><img src="./assets/Profile.jpg" alt="profile" style="width:158px;" /><img src="./assets/MVP.png" alt="mvp" style="width:100px;" /></div>
 
 # Shane Hoey
 
