@@ -45,3 +45,4 @@ During his 4 years at AudioCodes, Shane has been focusing providing expertise an
 * Successful Voice Modernization Projects for Medium to Large Scale Organization covering complex Design across Multiple Countries with Multiple Legacy Equipment.
 * More Recently Shane has been providing Customers with Workshop and Design Consulting and assistance with their Microsoft Teams Migration Programs.
 * Multiple Deployments of Voice Solutions using Microsoft Teams, Skype for Business Online (Cloud Connector), Skype for Business (Hybrid) and Skype for Business Server.
+
