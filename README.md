@@ -1,4 +1,4 @@
-[![Social banner for shanehoey](header.png)](https://shanehoey.com)
+[![header for shanehoey.com](./assets/header.png)](https://shanehoey.com)
 
 # Hi there 👋
 
