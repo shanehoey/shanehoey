@@ -37,7 +37,7 @@ In addition to the above Core Technologies, Shane has an ability to look at solu
 
 ## Professional Experience
 
-During his 4 years at AudioCodes, Shane has been focusing providing expertise and guidance on t the AudioCodes portfolio of products, including design, deployment, commissioning, and ongoing maintenance, specifically when used with  Microsoft Skype for Business & Microsoft Teams,  
+During his  years at AudioCodes, Shane has been focusing providing expertise and guidance on t the AudioCodes portfolio of products, including design, deployment, commissioning, and ongoing maintenance, specifically when used with  Microsoft Skype for Business & Microsoft Teams,  
 
 ### Projects Include
 
