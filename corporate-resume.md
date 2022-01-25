@@ -2,9 +2,10 @@
 
 # Shane Hoey
 
-Modern Workplace Specialist
-**AudioCodes**
+- Modern Workplace Specialist @ **[AudioCodes](https://audiocodes.com)**  
+- Microsoft MVP 2011 - 2021
 
+---
 
 
 
