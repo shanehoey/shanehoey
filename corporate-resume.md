@@ -8,9 +8,8 @@
 
 ## Career Highlights
 
-Microsoft Teams SME <img src="./assets/audiocodes1.png" alt="mvp" align = "right" width=240px />
-Automation Specialist 
 ### AudioCodes 
+Microsoft Teams SME <img src="./assets/audiocodes1.png" alt="mvp" align = "right" width=240px />
 * Over 10 years experience deploying and managing Microsoft Unified Communications solutions, including OCS/Lync/Skype for Business/Microsoft Teams.
 * Over 10 year's Automation experience including PowerShell, Microsoft Power Automate, Docker, Node.JS, 
 * Multiple award recipient of Microsoft MVP award (11 Years) ([mvp.microsoft.com](https://mvp.microsoft.com/en-us/mvp/Shane%20%20Hoey-4030602))
