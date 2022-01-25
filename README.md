@@ -21,7 +21,7 @@
 
 <!-- Social -->
 <hr/>
-<center>
+<p align=center>
 <h3 align="center">Reach out to me via</h3>
 <a href="https://shanehoey.com/"><img src = "https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png" alt = "website"></a>
 &#8195;
@@ -30,4 +30,4 @@
 <a href="https://www.linkedin.com.au/in/shanehoey"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png" alt = "linkedin"></a>
 &#8195;
 <a href="https://www.github.com/shanehoey/"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/github.png" alt = "github"></a>
-</center>
+</p>
