@@ -23,9 +23,11 @@
 <hr/>
 
 <h3 align="center">Reach out to me via</h3>
-
-[![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png)](https://shanehoey.com/)&#8195;
-[![twitter](https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png)](https://twitter.com/shanehoey/)&#8195;
-[![linkedin](https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png)](https://www.linkedin.com.au/in/shanehoey/)&#8195;
-[![github](https://img.icons8.com/ios-filled/30/FFFFFF/github.png)](https://www.github.com/shanehoey/)&#8195;
+<a href="https://shanehoey.com/"><img src = "https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png" alt = "website"></a>
+&#8195;
+<a href="https://twitter.com/shanehoey"><img src = "https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png" alt = "website"></a>
+&#8195;
+<a href="https://www.linkedin.com.au/in/shanehoey"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png" alt = "linkedin"></a>
+&#8195;
+<a href="https://www.github.com/shanehoey/"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/github.png" alt = "github"></a>
 
