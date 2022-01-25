@@ -1,8 +1,8 @@
 [![header for shanehoey.com](./assets/header.png)](https://shanehoey.com)
 
-<img src="./assets/Profile.jpg" alt="profile" style="width:158px;" /><img src="./assets/MVP.png" alt="mvp" style="width:100px;" />
 
-# Shane Hoey
+# Shane Hoey <img src="./assets/Profile.jpg" alt="profile" float="right" style="width:158px;" /><img src="./assets/MVP.png" float="right"  alt="mvp" style="width:100px;" />
+
 
 Modern Workplace Specialist
 **AudioCodes**
