@@ -1,12 +1,12 @@
 [![header for shanehoey.com](./assets/header.png)](https://hello.shanehoey.com/)
 
-## Hi there 👋, <small> I'm [Shane](https://shanehoey.com/) and live in Australia </small>
+### Hi there 👋, <small> I'm [Shane](https://shanehoey.com/) and live in Australia </small>
 
 🔵 #UCRockstar | #AutomationNinja | #BuiltForTeamwork  
 🔵 Microsoft MVP 2011-2022  
 🔵 Works for [AudioCodes](https://audiocodes.com)  
 
-<!-- Highlights -->
+<!-- Technology Stack -->
 #### Technology Stack
 
 🔵 [AudioCodes Products for Microsoft 365](https://www.audiocodes.com/solutions-products/products/products-for-microsoft-365/)  
