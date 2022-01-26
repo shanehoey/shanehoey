@@ -1,10 +1,10 @@
 [![header for shanehoey.com](./assets/header.png)](https://shanehoey.com)
 
-### Hi there 👋, <small> I'm [Shane](shanehoey.com) and live in Australia work for [AudioCodes](audiocodes.com) </small>
+### Hi there 👋, <small> I'm [Shane](shanehoey.com) and live in Australia </small>
 
-🔵 Automation Specialist  
-🔵 Modern Workplace Specialist  
-🔵 Microsoft MVP 2011-2022  
+🔵 UCRockstar | Automation Ninja | builtforteamwork
+🔵 Microsoft MVP 2011-2022 
+🔵 Works for [AudioCodes](https://audiocodes.com)
 
 <!-- Highlights -->
 #### Technology
