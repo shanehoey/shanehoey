@@ -23,11 +23,31 @@
 <hr/>
 <p align="center">
 <h3>Reach out to me via</h3>
-<a href="https://shanehoey.com/"><img src = "https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png" alt = "website"></a>
+</p>
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![GitHub dark](https://github.com/github-dark.png#gh-light-mode-only)
+
+![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only)
+![Website](https://img.icons8.com/external-others-iconmarket/30/000000/external-home-essential-others-iconmarket-4.png#gh-light-mode-only)
+
+![linkedin](https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.pngg#gh-dark-mode-only)
+![linkedin](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png#gh-light-mode-only)
+
+![twitter](https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.pngg#gh-dark-mode-only)
+![twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png#gh-light-mode-only)
+
+![github](https://img.icons8.com/ios-filled/30/FFFFFF/github.png#gh-dark-mode-only)
+![github](https://img.icons8.com/ios-filled/30/000000/github.png#gh-light-mode-only)
+
+
+
+<!---
+<a href="https://shanehoey.com/"><img src = "https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only" alt = "website"></a>
 &#8195;
-<a href="https://twitter.com/shanehoey"><img src = "https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png" alt = "website"></a>
+<a href="https://twitter.com/shanehoey"><img src = "https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png" alt = "twitter"></a>
 &#8195;
 <a href="https://www.linkedin.com.au/in/shanehoey"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png" alt = "linkedin"></a>
 &#8195;
 <a href="https://www.github.com/shanehoey/"><img src = "https://img.icons8.com/ios-filled/30/FFFFFF/github.png" alt = "github"></a>
-</p>
+--->
