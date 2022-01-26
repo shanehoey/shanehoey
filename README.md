@@ -21,7 +21,7 @@
 
 <!-- Social -->
 <hr/>
-
+<!--- BUG - displays dark/light think this fails bexause its not hosted in github --->
 [
 ![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only)
 ![Website](https://img.icons8.com/external-others-iconmarket/30/000000/external-home-essential-others-iconmarket-4.png#gh-light-mode-only)
