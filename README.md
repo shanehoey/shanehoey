@@ -2,9 +2,9 @@
 
 ### Hi there 👋, <small> I'm [Shane](shanehoey.com) and live in Australia </small>
 
-🔵 UCRockstar | Automation Ninja | builtforteamwork
-🔵 Microsoft MVP 2011-2022 
-🔵 Works for [AudioCodes](https://audiocodes.com)
+🔵 UCRockstar | Automation Ninja | builtforteamwork  
+🔵 Microsoft MVP 2011-2022  
+🔵 Works for [AudioCodes](https://audiocodes.com)  
 
 <!-- Highlights -->
 #### Technology
