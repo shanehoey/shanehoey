@@ -21,11 +21,9 @@
 
 <!-- Social -->
 <hr/>
-<!--- BUG - displays dark/light think this fails bexause its not hosted in github --->
-[
-![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only)
-![Website](https://img.icons8.com/external-others-iconmarket/30/000000/external-home-essential-others-iconmarket-4.png#gh-light-mode-only)
-](https://shanehoey.com)
+<!--- BUG - displays dark/light think this fails because its not hosted in github --->
+
+[![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only)![Website](https://img.icons8.com/external-others-iconmarket/30/000000/external-home-essential-others-iconmarket-4.png#gh-light-mode-only)](https://shanehoey.com)
 
 [![linkedin](https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png#gh-dark-mode-only)![linkedin](https://img.icons8.com/ios-filled/30/000000/linkedin.png#gh-light-mode-only)](https://www.linkedin.com.au/in/shanehoey)
 
