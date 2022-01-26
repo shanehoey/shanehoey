@@ -1,4 +1,4 @@
-[![header for shanehoey.com](./assets/header.png)](https://shanehoey.com/)
+[![header for shanehoey.com](./assets/header.png)](https://hello.shanehoey.com/)
 
 ### Hi there 👋, <small> I'm [Shane](https://shanehoey.com/) and live in Australia </small>
 
