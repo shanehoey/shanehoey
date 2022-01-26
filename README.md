@@ -1,6 +1,6 @@
-[![header for shanehoey.com](./assets/header.png)](https://shanehoey.com)
+[![header for shanehoey.com](./assets/header.png)](https://shanehoey.com/)
 
-### Hi there 👋, <small> I'm [Shane](shanehoey.com) and live in Australia </small>
+### Hi there 👋, <small> I'm [Shane](https://shanehoey.com/) and live in Australia </small>
 
 🔵 UCRockstar | Automation Ninja | builtforteamwork  
 🔵 Microsoft MVP 2011-2022  
