@@ -1,3 +1,13 @@
 {
-    "gitdoc.enabled": true
+
+    "gitdoc.enabled": true,
+    
+    "wikilens.ignoredFiles": [
+        "**/node_modules/**",
+        "**/.vscode/**",
+        "**/.github/**",
+        "/images/**"
+    ],
+
+
 }

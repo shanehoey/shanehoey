@@ -26,6 +26,9 @@
 <!--- BUG - displays dark/light think this fails because its not hosted in github --->
 
 [![Website](https://img.icons8.com/external-others-iconmarket/30/FFFFFF/external-home-essential-others-iconmarket-4.png#gh-dark-mode-only)![Website](https://img.icons8.com/external-others-iconmarket/30/000000/external-home-essential-others-iconmarket-4.png#gh-light-mode-only)](https://shanehoey.com)
+
 [![linkedin](https://img.icons8.com/ios-filled/30/FFFFFF/linkedin.png#gh-dark-mode-only)![linkedin](https://img.icons8.com/ios-filled/30/000000/linkedin.png#gh-light-mode-only)](https://www.linkedin.com.au/in/shanehoey)
+
 [![twitter](https://img.icons8.com/ios-glyphs/30/FFFFFF/twitter--v1.png#gh-dark-mode-only)![twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png#gh-light-mode-only)](https://twitter.com/shanehoey)
+
 [![github](https://img.icons8.com/ios-filled/30/FFFFFF/github.png#gh-dark-mode-only)![github](https://img.icons8.com/ios-filled/30/000000/github.png#gh-light-mode-only)](https://www.github.com/shanehoey/)

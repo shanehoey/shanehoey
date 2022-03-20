@@ -1,0 +1,17 @@
+{
+    // https://go.microsoft.com/fwlink/?LinkId=827846
+    "recommendations": [
+        "vsls-contrib.gistfs",
+        "vsls-contrib.gitdoc",
+        "lostintangent.wikilens",
+        "bierner.emojisense",
+        "bierner.markdown-emoji",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-mermaid",
+        "bierner.markdown-yaml-preamble",
+        "bierner.markdown-checkbox",
+        "tchayen.markdown-links",
+        "yzhang.markdown-all-in-one",
+        "alefragnani.project-manager",
+    ]
+}
