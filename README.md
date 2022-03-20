@@ -1,5 +1,7 @@
 [![header for shanehoey.com](./assets/header.png)](https://hello.shanehoey.com/)
 
+# Shane Hoey
+
 ### Hi there 👋, <small> I'm [Shane](https://shanehoey.com/) and live in Australia </small>
 
 🔵 #UCRockstar | #AutomationNinja | #BuiltForTeamwork  
@@ -15,9 +17,9 @@
 <!-- Highlights -->
 #### Highlights
 
-🔵 [directrouting.guide]()  
-🔵 [phone provission]()  
-🔵 [teams Tools]()  
+🔵 [directrouting.guide](https://directrouting.guide)  
+🔵 [phone provision](https://github.com/shanehoey/phoneprovision)  
+🔵 [teams Tools](https://github.com/shanehoey/Teamstools/)  
 
 <!-- Social -->
 <hr/>
