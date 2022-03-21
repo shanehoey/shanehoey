@@ -28,7 +28,7 @@
 [
 ![website](./assets/icons8-website-light.png#gh-dark-mode-only)
 ![website](./assets/icons8-website-dark.png#gh-light-mode-only)
-](https://shanehoey.com)  
+](https://shanehoey.com)
 ![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-light.png#gh-dark-mode-only)
 ![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-dark.png#gh-light-mode-only)
 ![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-light.png#gh-dark-mode-only)
