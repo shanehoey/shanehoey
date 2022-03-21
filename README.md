@@ -25,6 +25,7 @@
 ---
 
 <!--- BUG - displays dark/light think this fails because its not hosted in github --->
+![Website](./assets/icons8-website-light.png#gh-dark-mode-only)![Website](./assets/icons8-website-dark.png#gh-light-mode-only)
 
 [![Website](./assets/icons8-website-light.png#gh-dark-mode-only)![Website](./assets/icons8-website-dark.png#gh-light-mode-only)](https://shanehoey.com)
 
