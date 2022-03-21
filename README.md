@@ -23,11 +23,18 @@
 
 <!-- Social -->
 ---
-<p align="center">
-  
-![[website](https://www.shanehoey.com)](./assets/icons8-website-light.png#gh-dark-mode-only)![[website](https://www.shanehoey.com)](./assets/icons8-website-dark.png#gh-light-mode-only)
-![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-light.png#gh-dark-mode-only)![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-dark.png#gh-light-mode-only)
-![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-light.png#gh-dark-mode-only)![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-dark.png#gh-light-mode-only)
-![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-light.png#gh-dark-mode-only)![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-dark.png#gh-light-mode-only)
+
+<!--- BUG :  dark/light wont display when link or wrong link when trying to do dark/light-->
+[
+![website](./assets/icons8-website-light.png#gh-dark-mode-only)
+![website](./assets/icons8-website-dark.png#gh-light-mode-only)
+](http://shanehoey.com)  
+
+![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-light.png#gh-dark-mode-only)
+![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-dark.png#gh-light-mode-only)
+![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-light.png#gh-dark-mode-only)
+![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-dark.png#gh-light-mode-only)
+![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-light.png#gh-dark-mode-only)
+![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-dark.png#gh-light-mode-only)
 
 </p>
