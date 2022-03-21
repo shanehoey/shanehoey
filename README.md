@@ -24,13 +24,11 @@
 <!-- Social -->
 ---
 
-<!--- BUG - displays dark/light think this fails because its not hosted in github --->
-![Website](./assets/icons8-website-light.png#gh-dark-mode-only)![Website](./assets/icons8-website-dark.png#gh-light-mode-only)
-
-[![Website](./assets/icons8-website-light.png#gh-dark-mode-only)![Website](./assets/icons8-website-dark.png#gh-light-mode-only)](https://shanehoey.com)
-
-[![linkedin](./assets/icons8-linkedin-light.png#gh-dark-mode-only)![linkedin](./assets/icons8-linkedin-dark.png#gh-light-mode-only)](https://www.linkedin.com.au/in/shanehoey)
-
-[![twitter](./assets/icons8-twitter-light.png#gh-dark-mode-only)![twitter](./assets/icons8-twitter-dark.png#gh-light-mode-only)](https://twitter.com/shanehoey)
-
-[![github](./assets/icons8-github-light.png#gh-dark-mode-only)![github](./assets/icons8-github-dark.png#gh-light-mode-only)](https://www.github.com/shanehoey/)
+![[website](https://shanehoey.com)](./assets/icons8-website-light.png#gh-dark-mode-only)
+![[website](https://shanehoey.com)](./assets/icons8-website-dark.png#gh-light-mode-only)
+![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-light.png#gh-dark-mode-only)
+![[linkedin](https://www.linkedin.com.au/in/shanehoey)](./assets/icons8-linkedin-dark.png#gh-light-mode-only)
+![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-light.png#gh-dark-mode-only)
+![[twitter](https://twitter.com/shanehoey)](./assets/icons8-twitter-dark.png#gh-light-mode-only)
+![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-light.png#gh-dark-mode-only)
+![[github](https://www.github.com/shanehoey/)](./assets/icons8-github-dark.png#gh-light-mode-only)
