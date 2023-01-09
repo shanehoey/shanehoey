@@ -1,16 +1,10 @@
-[![header for shanehoey.com](./assets/header.png)](https://shanehoey.com)
+[![header for shanehoey.com](../assets/header.png)](https://shanehoey.com)
 
-<img src="./assets/Profile.jpg" alt="profile" width=158px height=100% style = "float:right" />
-<img src="./assets/MVP.png" alt="mvp" width=100px height=100% style = "float:right" />
-
+<img src="../assets/Profile.jpg" alt="profile" width=158px height=100% style = "float:right" />
 # Shane Hoey - Professional Resume
 
 Modern Workplace Specialist
 **AudioCodes**
-
-<br>
-<br>
-<br>
 
 ## Career Highlights
 
