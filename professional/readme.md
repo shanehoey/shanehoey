@@ -1,6 +1,7 @@
 [![header for shanehoey.com](../assets/header.png)](https://shanehoey.com)
 
 <img src="../assets/Profile.jpg" alt="profile" width=158px height=100% style = "float:right" />
+
 # Shane Hoey - Professional Resume
 
 Modern Workplace Specialist
