@@ -1,4 +1,4 @@
-<img src="../assets/header.jpg" alt="header for shanehoey.com"/>
+<img src="../assets/header.png" alt="header for shanehoey.com"/>
 
 <img src="../assets/Profile.jpg" alt="profile" width=158px align="right"/>
 
