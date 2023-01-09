@@ -1,17 +1,18 @@
 [![header for shanehoey.com](../assets/header.png)](https://shanehoey.com)
-
-<img src="../assets/Profile.jpg" alt="profile" width=158px height=100% style = "float:right" />
+<img src="../assets/Profile.jpg" alt="profile" width=158px align="right"/>
 
 # Shane Hoey - Professional Resume
 
 Modern Workplace Specialist
-**AudioCodes**
+**@AudioCodes**
+
+<br>
 
 ## Career Highlights
 
 - Over 10 years experience deploying and managing Microsoft Unified Communications solutions, including OCS/Lync/Skype for Business/Microsoft Teams.
 - Over 10 year's Automation experience with Windows PowerShell.
-- Multiple award recipient of Microsoft MVP award (9 Years) ([mvp.microsoft.com](https://mvp.microsoft.com/en-us/mvp/Shane%20%20Hoey-4030602))
+- Multiple award recipient of Microsoft MVP award (11 Years) ([mvp.microsoft.com](https://mvp.microsoft.com/en-us/mvp/Shane%20%20Hoey-4030602))
 - Speaker at Multiple Microsoft Conferences, including Microsoft Ignite US 2017-2019, Microsoft Ignite the tour, Lync Conference.
 - Certifications include Lync/Skype for Business, and currently completing Teams Certifications.
 
@@ -36,7 +37,7 @@ In addition to the above Core Technologies, Shane has an ability to look at solu
 
 ## Professional Experience
 
-During his 6 years at AudioCodes, Shane has been focusing providing expertise and guidance on t the AudioCodes portfolio of products, including design, deployment, commissioning, and ongoing maintenance, specifically when used with  Microsoft Skype for Business & Microsoft Teams,  
+During his 8 years at AudioCodes, Shane has been focusing providing expertise and guidance on t the AudioCodes portfolio of products, including design, deployment, commissioning, and ongoing maintenance, specifically when used with  Microsoft Skype for Business & Microsoft Teams,  
 
 ### Projects Include
 
